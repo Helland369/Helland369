@@ -7,8 +7,6 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently in school for programming
 - 🌱 I’m currently learning Javascript, Html, Css and some C++
-- 🤔 I’m looking for help with anything I know
 - 💬 Ask me about anything :)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I use Arch btw 🐧
