@@ -5,8 +5,5 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently in school for programming
-- 🌱 I’m currently learning Javascript, Html, Css and some C++
-- 💬 Ask me about anything :)
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I use Arch btw 🐧
+C++, C#, JS
+I use Arch Linux and Emacs btw 🐧
