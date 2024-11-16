@@ -5,5 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-C++, C#, JS
+-C++
+-C#
+-JS
+---------------------------------
 I use Arch Linux and Emacs btw 🐧
