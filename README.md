@@ -10,3 +10,8 @@ Here are some ideas to get you started: -->
 -JS
 ---------------------------------
 I use Arch Linux and Emacs btw 🐧
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helland369&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helland369&layout=donut-vertical&show_icons=true&theme=merko)](https://github.com/Helland369/github-readme-stats)
