@@ -27,7 +27,10 @@ I enjoy using Linux and Emacs, I can allso program in C++, C# and JavaScript.
           
           
           
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Helland369&show_icons=true&theme=merko" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helland369&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helland369&layout=donut-vertical&show_icons=true&theme=merko)](https://github.com/Helland369/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helland369&layout=compact&show_icons=true&theme=merko" />
+</a>
