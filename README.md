@@ -27,10 +27,10 @@ I enjoy using Linux and Emacs, I can allso program in C++, C# and JavaScript.
           
           
           
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Helland369&show_icons=true&theme=merko" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Helland369&show_icons=true&theme=merko" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helland369&layout=compact&show_icons=true&theme=merko" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Helland369&layout=compact&show_icons=true&theme=merko&langs_count=8" />
 </a>
